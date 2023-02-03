@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testnet.core.6:
+    image: ${DOCKER_REGISTRY-}testnetcore
+    build:
+      context: .
+      dockerfile: сайт test net.core.6/Dockerfile

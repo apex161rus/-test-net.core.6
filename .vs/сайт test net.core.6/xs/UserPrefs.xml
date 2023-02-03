@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8E9AC1DF-97CD-4846-BB66-98EA6D669512}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="сайт test net.core.6/Dockerfile">
+    <Files>
+      <File FileName="сайт test net.core.6/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="сайт test net.core.6" expanded="True" selected="True">
+            <Node name="docker-compose" expanded="True" />
+            <Node name="сайт test net.core.6" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.саи_3306т_220test_220net.core.6 PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
